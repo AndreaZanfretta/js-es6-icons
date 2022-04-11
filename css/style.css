@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #DDDDDD;
+}
 header{
     width: 100%;
     height: 80px;
@@ -15,7 +18,6 @@ header h1{
 main{
     width: 100%;
     height: calc(100vh - 80px);
-    background-color: #DDDDDD;
 }
 #select{
     width: 100%;
